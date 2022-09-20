@@ -1,0 +1,27 @@
+.container-fluid {
+    background-color: green;
+}
+
+.titulo {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+}
+
+h1{
+    color: #fff;
+}
+
+.carta {
+    width: 150px;
+    position: relative;
+    left: 100px;
+    margin-left: -75px;
+}
+
+#computadora-cartas,
+#jugador-cartas {
+    min-height: 240px;
+}
